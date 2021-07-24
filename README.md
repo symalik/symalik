@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **symalik/symalik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile Pic](./img/github_pic.png)
+# Hello!!
+
+### On GitHub I am:
+- Learning about Distribured Version Control
+- How best to utilize GitHub to create projects that I can share with others.
+- Expand my knowledge on creating and maintaining repositories.
+
