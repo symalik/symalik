@@ -44,3 +44,8 @@ Here are some ideas to get you started:
 | Markdown | [Getting Started](https://www.markdownguide.org/getting-started/) |
 | CodePen | [Start Coding](https://codepen.io/pen/)
 
+---
+#### To Do:
+1. ~~Complete GitHub README~~
+2. ~~Upload to GitHub Repository~~
+3. Continue to work on improving README file. 😄
