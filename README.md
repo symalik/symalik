@@ -30,4 +30,9 @@ Here are some ideas to get you started:
 ### Professional
  - Basic C++/Java experience and looking forward to learn and grow and enjoy the journey ahead.
 
+---
  
+ #### Contact
+  - **Email:** ayazsah@gmail.com
+  - **LinkedIn:** https://www.linkedin.com/in/syed-malik-73512516
+  
