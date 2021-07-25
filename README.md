@@ -35,4 +35,11 @@ Here are some ideas to get you started:
  #### Contact
   - **Email:** ayazsah@gmail.com
   - **LinkedIn:** https://www.linkedin.com/in/syed-malik-73512516
-  
+---
+  ### Helpful Links
+
+| Name |Link |
+| ----------- | ----------- |
+| Scott Hanselman | [Windows Terminal - Pretty Prompts](https://www.hanselman.com/blog/how-to-make-a-pretty-prompt-in-windows-terminal-with-powerline-nerd-fonts-cascadia-code-wsl-and-ohmyposh) |
+| Markdown | [Getting Started](https://www.markdownguide.org/getting-started/) |
+| CodePen | [Start Coding](https://codepen.io/pen/)
