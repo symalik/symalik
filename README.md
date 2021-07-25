@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 - Working on DIY Projects (tech. and non-tech. related)
 - Playing sports (Football, Basektball, Golf, Tennis)
 
+### Professional
+ - Basic C++/Java experience and looking forward to learn and grow and enjoy the journey ahead.
+
+ 
