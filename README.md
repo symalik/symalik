@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 - How best to utilize GitHub to create projects that I can share with others.
 - Expand my knowledge on creating and maintaining repositories.
 
+### I Enjoy:
+- Keeping up with latest development in technology.
+- Working on DIY Projects (tech. and non-tech. related)
+- Playing sports (Football, Basektball, Golf, Tennis)
+
